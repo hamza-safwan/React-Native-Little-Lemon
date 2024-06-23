@@ -7,7 +7,7 @@ There are two pre-trained models in this repo :
 2. Categorical Cross Entropy : `BrainTumorCategorical10Epochs.h5`
 
 
-## How to Get Started?
+## How to Get Started
 
 1. Clone the repository recursively:
 
@@ -30,6 +30,6 @@ There are two pre-trained models in this repo :
     * Extract the images in `datasets` folder.
  
     * `pip install -r requirements.txt`
-2. to train your custom model use `main_train.py` module.
+2. To train your custom model use `main_train.py` module.
 
 
