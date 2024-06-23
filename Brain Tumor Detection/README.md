@@ -1,15 +1,4 @@
 # Brain Tumors Detection
-
-<div align="center">
-<p>
-<img src="readme_images/project_display.gif" width="700" height="400"/>
-</p>
-<br>
-<div>
-</div>
-</div>
-
-## Introduction
 This repository contains a deep learning model based on a convolutional neural network (CNN) used to detect brain tumors from MRI images. 
 
 There are two pre-trained models in this repo :
@@ -18,7 +7,7 @@ There are two pre-trained models in this repo :
 2. Categorical Cross Entropy : `BrainTumorCategorical10Epochs.h5`
 
 
-## Before you run the model
+## How to Get Started?
 
 1. Clone the repository recursively:
 
