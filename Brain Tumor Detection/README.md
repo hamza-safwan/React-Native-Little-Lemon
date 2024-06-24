@@ -22,14 +22,12 @@ There are two pre-trained models in this repo :
     python app.py
     ```
 
-## Dataset 
-
-1. Br35H : Brain Tumor Detection 2020
+4. **Download the dataset** i.e. Br35H : Brain Tumor Detection 2020
     * [Brain Tumor Detection Download Link](https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection)
 
     * Extract the images in `datasets` folder.
  
     * `pip install -r requirements.txt`
-2. To train your custom model use `main_train.py` module.
+5. To train your custom model use `main_train.py` module.
 
 
